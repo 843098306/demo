@@ -1,4 +1,18 @@
 {
+  "Titanic": [ {
+   "PassengerId": 1,
+   "Pclass": 3,
+   "Name": "Braund, Mr. Owen Harris",
+   "Sex": "male",
+   "Age": 22,
+   "SibSp": 1,
+   "Parch": 0,
+   "Ticket": "A/5 21171",
+   "Fare": 7.25,
+   "Cabin": "",
+   "Embarked": "S",
+   "Survived": 0
+   } ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
